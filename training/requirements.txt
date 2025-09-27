@@ -1,0 +1,7 @@
+git+https://github.com/huggingface/diffusers
+transformers
+accelerate
+datasets
+scikit-image
+shapely
+bitsandbytes
